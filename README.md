@@ -1,3 +1,4 @@
+
 # College Complaint Redressal & Ticket Management System
 ## Phase 1, Phase 2, Phase 3 & Phase 4: Reports, Analytics & Executive Dashboards
 
@@ -251,3 +252,6 @@ npm --prefix server test
 | `GET` | `/api/analytics/export` | Admin Only | Export filtered complaints as RFC-compliant CSV |
 
 For complete request and response payload documentation, see [API_DOCUMENTATION.md](file:///c:/Users/siric/OneDrive/Desktop/EAD%20project/API_DOCUMENTATION.md).
+
+# CampusCare
+CampusCare is a web-based Campus Complaint Redressal System that enables students to raise and track complaints, while administrators manage requests, monitor resolution progress, and ensure timely issue resolution through role-based access and SLA tracking.
